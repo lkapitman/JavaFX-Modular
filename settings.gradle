@@ -1,0 +1,9 @@
+rootProject.name = 'Launcher'
+
+String[] modules = [
+    'LauncherCore',
+    'LauncherUI',
+    'LauncherStarter'
+]
+
+include modules
